@@ -33,4 +33,4 @@ A project to see the correlation in how the environment impacts F1
 #### While the data is relatively cut and dry, there is A LOT of it. It was difficult to sift through it and pull only what was relevant to my project. An example of this is that weather has the potential to impact several aspects of the sport. Which ones are relevant and which one are accounted for by the teams before the race and adjustments made so those aspects no longer have an impact? 
 
 ## Link to Dashboard
-#### https://app.powerbi.com/groups/me/reports/7b2f603e-5cad-4b84-ac2d-c8382e6a311e/ReportSectiona0519b7ce424d578cf59
+#### 
