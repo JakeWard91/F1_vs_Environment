@@ -15,13 +15,12 @@ A project to see the correlation in how the environment impacts F1
 
 #### My project therefore attempts to look into just a minuscule portion the mass amounts of data Formula 1 teams handle.
 
-#### For many years the Formula 1 organization has been looking into the many way in which it can minimise it's impact on the environment while still keeping true to the sport of racing. But what about its reverse? What about the environment's impact on Formula 1? Does the weather really affect the the sport? I think we all know the answer to this as anyone who has driven a car at normal speed on a normal road would tell you it does. But how and where on a race circuit does it affect Formula 1 cars and their drivers? And which factors produce the biggest impacts? These are the questions I set out to find.
-
+#### For many years, the Formula 1 organization has been looking into the many ways in which it can minimise it's footprint on the environment, while still keeping true to the sport of racing. But what about its reverse? What about the environment's impact on Formula 1? Does the weather really affect the the sport? I think we all know the answer to this as anyone who has driven a car at normal speed on a normal road would tell you it does. But how and where on a race circuit does it affect Formula 1 cars and their drivers? And which factors produce the biggest impacts? These are the questions I set out to find.
 
 ## Technologies
 #### For this project I used Python 3.12.7 in Jupyter Notebooks. Pandas, numpy, and requests libraries were all utilized in the analysis and to pull the APIs from my data source, https://openf1.org/.
 
-#### For final cleaning and dashboarding, I utilized Tableau and its Story function.
+#### For final cleaning and dashboarding, I utilized Photoshop, and Tableau using its Story function.
 
 ## Problems & Hurdles
 ### Getting the Data 
